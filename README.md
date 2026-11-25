@@ -1,3 +1,3 @@
 AIML LAB
-Vedant Shete - 63
-ADT25SOCBD083
+Pratik Vitthal Patil- 62
+ADT25SOCBD042
